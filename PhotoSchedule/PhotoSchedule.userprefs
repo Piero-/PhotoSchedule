@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFolders.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="1" Column="1" />
+      <File FileName="MyFolders.cs" Line="5" Column="5" />
+      <File FileName="Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Sources.txt" Line="1" Column="1" />
+      <File FileName="Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="Resources\values\Strings.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhotoSchedule MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

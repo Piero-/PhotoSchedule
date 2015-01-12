@@ -1,0 +1,2 @@
+PhotoSchedule.MainActivity;photoschedule.MainActivity
+PhotoSchedule.MyFolders;photoschedule.MyFolders
