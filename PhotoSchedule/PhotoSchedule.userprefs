@@ -1,19 +1,20 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+﻿<Properties StartupItem="PhotoSchedule.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.BH9024VR1L" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MyFolders.cs">
     <Files>
-      <File FileName="MainActivity.cs" Line="1" Column="1" />
-      <File FileName="MyFolders.cs" Line="5" Column="5" />
-      <File FileName="Properties\AndroidManifest.xml" Line="1" Column="1" />
-      <File FileName="Sources.txt" Line="1" Column="1" />
-      <File FileName="Properties\AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="Assets\AboutAssets.txt" Line="1" Column="1" />
-      <File FileName="Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="MyFolders.cs" Line="34" Column="34" />
+      <File FileName="zChemistry.cs" Line="102" Column="102" />
+      <File FileName="MainActivity.cs" Line="35" Column="35" />
+      <File FileName="zMath.cs" Line="33" Column="33" />
+      <File FileName="zComputing.cs" Line="31" Column="31" />
+      <File FileName="zHistory.cs" Line="29" Column="29" />
+      <File FileName="zLanguages.cs" Line="31" Column="31" />
+      <File FileName="zMiscellaneous.cs" Line="35" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.PhotoSchedule MonoForAntroid.PreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.PhotoSchedule MonoForAntroid.PreferredDevice="Nexus 4" MonoForAntroid.PreferredTheme="Theme.DeviceDefault.Light" AndroidDesignerPreferredDevice="Nexus 5" AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light" />
 </Properties>

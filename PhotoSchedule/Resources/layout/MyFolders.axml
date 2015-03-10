@@ -2,12 +2,50 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+    android:layout_height="wrap_content"
     android:minWidth="25px"
-    android:minHeight="25px">
-    <Button
-        android:text="Create a Folder "
+    android:minHeight="25px"
+    android:background="@drawable/BG">
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/btnCreate" />
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView1">
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:stretchColumns="1">
+            <Button
+                android:layout_width="242.3dp"
+                android:layout_height="190.6dp"
+                android:id="@+id/btnMath"
+                android:background="@drawable/btnMath" />
+            <Button
+                android:layout_width="242.3dp"
+                android:layout_height="190.6dp"
+                android:id="@+id/btnChem"
+                android:background="@drawable/btnChemistry" />
+            <Button
+                android:layout_width="242.3dp"
+                android:layout_height="190.6dp"
+                android:id="@+id/btnComp"
+                android:background="@drawable/btnComputing" />
+            <Button
+                android:layout_width="242.3dp"
+                android:layout_height="190.6dp"
+                android:id="@+id/btnHist"
+                android:background="@drawable/btnHistory" />
+            <Button
+                android:layout_width="242.3dp"
+                android:layout_height="190.6dp"
+                android:id="@+id/btnLang"
+                android:background="@drawable/btnLanguages" />
+            <Button
+                android:layout_width="242.3dp"
+                android:layout_height="190.6dp"
+                android:id="@+id/btnMisc"
+                android:background="@drawable/btnMisc" />
+        </TableLayout>
+    </ScrollView>
 </LinearLayout>

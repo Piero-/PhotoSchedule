@@ -14,10 +14,8 @@
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <AssemblyName>PhotoSchedule</AssemblyName>
-    <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.4</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
-    <ProductVersion>8.0.30703</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -50,6 +48,14 @@
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MyFolders.cs" />
+    <Compile Include="BitmapHelpers.cs" />
+    <Compile Include="zChemistry.cs" />
+    <Compile Include="zComputing.cs" />
+    <Compile Include="zHistory.cs" />
+    <Compile Include="zLanguages.cs" />
+    <Compile Include="zMath.cs" />
+    <Compile Include="zMiscellaneous.cs" />
+    <Compile Include="ImageAdapter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -61,7 +67,23 @@
     <AndroidResource Include="Resources\layout\Main.axml" />
     <AndroidResource Include="Resources\values\Strings.xml" />
     <AndroidResource Include="Resources\drawable\Icon.png" />
+    <AndroidResource Include="Resources\drawable\Camera.png" />
+    <AndroidResource Include="Resources\drawable\btnCamera.png" />
+    <AndroidResource Include="Resources\drawable\btnNotebook.png" />
     <AndroidResource Include="Resources\layout\MyFolders.axml" />
+    <AndroidResource Include="Resources\drawable\btnChemistry.png" />
+    <AndroidResource Include="Resources\drawable\btnComputing.png" />
+    <AndroidResource Include="Resources\drawable\btnHistory.png" />
+    <AndroidResource Include="Resources\drawable\btnLanguages.png" />
+    <AndroidResource Include="Resources\drawable\btnMath.png" />
+    <AndroidResource Include="Resources\drawable\btnMisc.png" />
+    <AndroidResource Include="Resources\drawable\BG.png" />
+    <AndroidResource Include="Resources\layout\zMath.xml" />
+    <AndroidResource Include="Resources\layout\zChemistry.xml" />
+    <AndroidResource Include="Resources\layout\zLanguages.xml" />
+    <AndroidResource Include="Resources\layout\zHistory.xml" />
+    <AndroidResource Include="Resources\layout\zComputing.xml" />
+    <AndroidResource Include="Resources\layout\zMiscellaneous.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
 </Project>

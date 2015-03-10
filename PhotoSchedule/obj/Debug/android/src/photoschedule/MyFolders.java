@@ -11,7 +11,7 @@ public class MyFolders
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("PhotoSchedule.MyFolders, PhotoSchedule, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null", MyFolders.class, __md_methods);
+		mono.android.Runtime.register ("PhotoSchedule.MyFolders, PhotoSchedule, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null", MyFolders.class, __md_methods);
 	}
 
 
@@ -19,7 +19,7 @@ public class MyFolders
 	{
 		super ();
 		if (getClass () == MyFolders.class)
-			mono.android.TypeManager.Activate ("PhotoSchedule.MyFolders, PhotoSchedule, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("PhotoSchedule.MyFolders, PhotoSchedule, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

@@ -1,2 +1,10 @@
-PhotoSchedule.MainActivity;photoschedule.MainActivity
+swag.MainActivity;swag.MainActivity
+swag.MainActivity.MainActivity1;swag.MainActivity_MainActivity1
 PhotoSchedule.MyFolders;photoschedule.MyFolders
+PhotoSchedule.zChemistry;photoschedule.zChemistry
+PhotoSchedule.zComputing;photoschedule.zComputing
+PhotoSchedule.zHistory;photoschedule.zHistory
+PhotoSchedule.zLanguages;photoschedule.zLanguages
+PhotoSchedule.zMath;photoschedule.zMath
+PhotoSchedule.zMiscellaneous;photoschedule.zMiscellaneous
+PhotoSchedule.ImageAdapter;photoschedule.ImageAdapter
